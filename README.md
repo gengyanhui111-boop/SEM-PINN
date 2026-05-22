@@ -73,9 +73,9 @@ python plot_helmholtz1D_comparison.py  # Generate figures
 cd paper_code
 python cavity2D_m1_pure_pinn.py        # M1: ~4.8 h
 python cavity2D_m2_spectral_lstsq.py   # M2: ~0.5 h
-python cavity2D_m3_spectral_vpinn.py   # M3: ~6.0 h
+python cavity2D_m3_spectral_vpinn.py   # M3: ~9.4 h
 python cavity2D_m4_sem_lstsq.py        # M4: ~7.2 h
-python cavity2D_m5_sem_vpinn.py        # M5: ~57.1 h
+python cavity2D_m5_sem_vpinn.py        # M5: ~11.4 h
 python run_m6_spectral_mlp_vpinn.py    # M6: ~0.13 h
 ```
 
